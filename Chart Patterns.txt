@@ -1,0 +1,42 @@
+CHARACTERISTICS BY BASE TYPE
+
+FLAT BASE
+---------
+Base shape: shallow and flat
+Base length: at least five weeks
+Base depth: no deeper than 15%;
+Base characteristics: often occur after a stock rushes out of a previous base and stalls
+Tend to form when the broader market is not making much upward progress
+Buy point calculation: ten cents above the peak of the left side of the base
+
+
+DOUBLE-BOTTOM BASE
+------------------
+Base shape: resembles the letter "W"
+Base length: at least seven weeks
+Base depth: up to 35% but may be deeper during a bear market
+Base characteristics:
+The low point of the second leg of the "W" should undercut the low of the first leg of the "W"
+The middle peak of the "W" should be lower than the high at the beginning of the base.
+The middle peak of the "W" should also be above the mid-point of the base
+Buy point calculation: ten cents above the middle peak of the "W"
+
+
+ASCENDING BASE
+--------------
+Base shape: series of three mild pullbacks each having a higher top and a higher low than the pullback that preceded it.
+Base length: nine to 16 weeks
+Base depth: each pullback should be 10% to 20% deep
+Base characteristics: starts to form at least 20% above the stock's previous base
+Buy point calculation: ten cents above the peak of the third and final pullback
+
+
+SAUCER BASE
+-----------
+Base shape: resembles a saucer
+Base length: seven weeks to more than a year
+Base depth: usually 12% to 20% 
+Base characteristics:  tends to have a low Relative Price Strength Rating; may form a handle
+Buy point calculation:
+With handle: ten cents above the peak in the handle
+Without handle: ten cents above peak of left side of base

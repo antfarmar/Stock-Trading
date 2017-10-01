@@ -1,0 +1,24 @@
+Dim vos As Single
+Dim sgn As Single
+Static prc As Single
+
+If Me.isFirstBar Then
+	prc = price.Low
+End If
+
+vos = volu.value/vma50.Value
+
+If vos > 1 Then
+	If price.Close-prc >= 0 Or price.netChange >= 0 Or price.Open <= price.Close Then
+		prc = price.Low
+		sgn = +1 'System.math.Sign(price.close-prc)
+	Else
+		sgn = -1 'System.math.Sign(price.close-prc)
+		prc = price.Close
+	End If
+Else
+	sgn = System.math.Sign(price.netChange)
+	sgn = -sgn
+End If
+
+plot = 100*vos*sgn

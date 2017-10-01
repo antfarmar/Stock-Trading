@@ -1,0 +1,44 @@
+GOOG
+AAPL
+RIMM
+STAR
+CSCO
+CIEN
+TLAB
+TKLC
+CTV
+SNDA
+ADCT
+PALM
+QCOM
+BRCM
+CY
+ONNN
+NETL
+XLNX
+TSRA
+SWKS
+RFMD
+
+
+Google Inc. (GOOG: 458.58 +1.02%)
+Apple Inc. (AAPL: 165.31 +1.52%)
+Research In Motion Limited (USA) (RIMM: 71.73 -0.53%)
+Starent Networks Corp. (STAR: 22.99 +2.86%)
+Cisco Systems, Inc. (CSCO: 21.43 +1.23%)
+Ciena Corporation (CIEN: 11.81 +3.96%)
+Tellabs, Inc. (TLAB: 6.23 +1.30%)
+TEKELEC (TKLC: 16.39 +1.42%)
+CommScope, Inc. (CTV: 27.48 +5.49%)
+Shanda Interactive Entertainment Ltd ADR (SNDA: 48.23 -2.35%)
+ADC Telecommunications (ADCT: 8.92 +29.28%)
+Palm, Inc. (PALM: 12.84 -7.76%)
+QUALCOMM, Inc. (QCOM: 46.37 +2.14%)
+Broadcom Corporation (BRCM: 26.96 +1.24%)
+Cypress Semiconductor Corporation (CY: 10.78 +3.65%)
+ON Semiconductor Corp. (ONNN: 7.75 +3.47%)
+NetLogic Microsystems, Inc. (NETL: 39.387 +2.07%)
+Xilinx, Inc. (XLNX: 21.81 +2.35%)
+Tessera Technologies, Inc. (TSRA: 26.36 +3.33%)
+Skyworks Solutions, Inc. (SWKS: 11.24 +1.81%)
+RF Micro Devices, Inc. (RFMD: 5.07 +5.41%)

@@ -1,0 +1,76 @@
+STOCK PICKING METHODS: Methods Trump Markets
+
+M.I.S.F.I.T METHOD
+------------------
+1. MARKET ANALYSIS
+2. INDUSTRY ANALYSIS
+3. SUBINDUSTRY ANALYSIS
+4. FUNDAMENTAL ANALYSIS
+5. INSTITUTIONAL ANALYSIS
+6. TECHNICAL ANALYSIS
+
+
+1. MARKET ANALYSIS
+Determine the current state of the market.
+* How is the economy doing?
+* Is it a bull or bear market?
+* How long has the market been rallying/declining?
+* Are sector rotations occuring?
+* Is it earnings season?
+
+
+2. INDUSTRY ANALYSIS
+Given the market, determine which industries are thriving.
+* What main industries are performing the best?
+* How long has the industry been rallying?
+* How long will the industry continue to rally?
+
+
+3. SUBINDUSTRY ANALYSIS
+Given thriving industries, determine which subindustries are outperforming.
+* What subindustries are performing the best?
+* Why this particular subindustry?
+ 
+
+4. FUNDAMENTAL ANALYSIS
+Given outperforming subindustries, determine which stocks have glowing fundies.
+* Are the quarterly & annual earnings/sales/profits growing and accelerating?
+* How are the sales, ROE, and profit margins doing? (SMR rating)
+* Is the company or insiders buying or selling their own stock?
+
+
+5. INSTITUTIONAL ANALYSIS
+Given growing stocks, determine which are favored by institutions.
+* How many institutions are holding the stock?
+* How well have these institutions performed?
+* Is sponshorship accelerating or decelerating?
+* What percentage of the float is held by institutions?
+* Is it overowned or underowned or just being discovered?
+
+
+6. TECHNICAL ANALYSIS
+Given favored stocks, determine a good entry point.
+* What is the volume and price action?
+* Where is the support/reistance of the price?
+* Where is the price relative to the 50-day MA?
+* What price patterns have recently formed?
+* Has it formed a proper base?
+* How many shares are outstanding?
+* When is the proper time to buy?
+* What is the downside risk?
+
+================================================================================
+
+P.R.O.F.I.T METHOD
+------------------
+
+1. (P)ROGRESSION OF MARKET: rallying, consolodating, distributing
+2. (R)ELATIVE STRENGTHS OF SECTORS/INDUSTRIES/SUBINDUSTRIES: best vs. worst
+3. (O)DD VOLUME IN STOCKS: above average = buying, below average = selling
+4. (F)UNDAMENTAL ANALYSIS: high earnings, sales, margins, roe
+5. (I)NSTITUTIONAL SPONSORSHIP: which stocks are top institutions buying/selling
+6. (T)ECHNICAL ANALYSIS: find a good time to enter a stock
+
+markf996
+1trader1
+U784493
